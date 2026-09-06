@@ -56,7 +56,6 @@ function App() {
             <h1>Payments</h1>
             <h1>Savings</h1>
             <h1>Investing</h1>
-            <img className='flex justify-center items-center h-20 w-20' src={SectionImg} alt="" />
           </div>
         </div>
       </section>
